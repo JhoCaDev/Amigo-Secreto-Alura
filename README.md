@@ -18,10 +18,24 @@ Una app web que hice para sortear nombres al azar entre mis amigos. Súper simpl
 ## 📋 Cómo usarlo
 
 1. **Abre la app**: Dale doble clic al archivo `index.html`
+
+![archivo Index](./assets/Index.png)
+
 2. **Mete los nombres**: Escribe y dale al botón "Añadir" (o Enter)
+
+![archivo Index](./assets/Escribir%20nombres.png)
+
 3. **Revisa la lista**: Asegúrate que están todos los nombres
+
+![archivo Index](./assets/Revisar%20Nombres.png)
+
 4. **¡Sortea!**: Dale clic a "Sortear amigo"
-5. **Mira rápido**: El ganador aparecerá por 5 segundos y luego... ¡puf! desaparece
+
+![archivo Index](./assets/Sortear%20Amigo.png)
+
+1. **Mira rápido**: El ganador aparecerá por 5 segundos y luego... ¡puf! desaparece
+
+![archivo Index](./assets/Sorteado.png)
 
 ## 💡 Detalles técnicos (por si te interesa)
 

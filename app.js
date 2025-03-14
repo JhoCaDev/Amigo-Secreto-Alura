@@ -35,6 +35,7 @@ function actualizarLista() {
     li.innerHTML = amigos[i];
     lista.appendChild(li);
   }
+  console.log(amigos);
 }
 
 function sortearAmigo(event) {
@@ -59,7 +60,10 @@ function sortearAmigo(event) {
   setTimeout(() => {
     lista.innerHTML = "";
     amigoElegido.innerHTML = "";
+    amigos.length = 0;
   }, 5000);
+
+  console.log(amigos);
 }
 
 const inputNombre = document.getElementById("amigo");
